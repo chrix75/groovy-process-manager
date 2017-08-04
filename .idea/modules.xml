@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-process-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-process-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-process-manager_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-process-manager_main.iml" group="groovy-process-manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-process-manager_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-process-manager_test.iml" group="groovy-process-manager" />
+    </modules>
+  </component>
+</project>
